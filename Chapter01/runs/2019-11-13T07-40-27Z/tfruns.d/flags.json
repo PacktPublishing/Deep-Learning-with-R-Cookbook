@@ -1,0 +1,6 @@
+{
+  "dense_units1": 8,
+  "dropout1": 0.2,
+  "dense_units2": 16,
+  "dropout2": 0.4
+}
